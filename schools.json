@@ -142,7 +142,8 @@
   {
     "name": "广西大学(仅教务网)",
     "cmsURL": "http://jwgl.gxu.edu.cn/",
-    "cmsSys": "zfsoft"
+    "cmsSys": "zfsoft",
+    "libURL": "http://202.193.80.181:8080/",
   },
   {
     "name": "广西科技大学(仅教务网)",
